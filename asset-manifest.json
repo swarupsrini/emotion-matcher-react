@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/emotion-matcher-react/static/css/main.b100e6da.chunk.css",
-    "main.js": "/emotion-matcher-react/static/js/main.3f644b65.chunk.js",
-    "main.js.map": "/emotion-matcher-react/static/js/main.3f644b65.chunk.js.map",
+    "main.css": "/emotion-matcher-react/static/css/main.4adddb63.chunk.css",
+    "main.js": "/emotion-matcher-react/static/js/main.a85e8be8.chunk.js",
+    "main.js.map": "/emotion-matcher-react/static/js/main.a85e8be8.chunk.js.map",
     "runtime-main.js": "/emotion-matcher-react/static/js/runtime-main.d375b250.js",
     "runtime-main.js.map": "/emotion-matcher-react/static/js/runtime-main.d375b250.js.map",
-    "static/js/2.40fc6bc1.chunk.js": "/emotion-matcher-react/static/js/2.40fc6bc1.chunk.js",
-    "static/js/2.40fc6bc1.chunk.js.map": "/emotion-matcher-react/static/js/2.40fc6bc1.chunk.js.map",
+    "static/js/2.c624823e.chunk.js": "/emotion-matcher-react/static/js/2.c624823e.chunk.js",
+    "static/js/2.c624823e.chunk.js.map": "/emotion-matcher-react/static/js/2.c624823e.chunk.js.map",
     "index.html": "/emotion-matcher-react/index.html",
-    "precache-manifest.47c41c8cdaee768dfb5da917bafadedd.js": "/emotion-matcher-react/precache-manifest.47c41c8cdaee768dfb5da917bafadedd.js",
+    "precache-manifest.60c0d0c3da93bea1b512cfda30d21632.js": "/emotion-matcher-react/precache-manifest.60c0d0c3da93bea1b512cfda30d21632.js",
     "service-worker.js": "/emotion-matcher-react/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/emotion-matcher-react/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/emotion-matcher-react/static/media/logo.25bf045c.svg"
+    "static/css/main.4adddb63.chunk.css.map": "/emotion-matcher-react/static/css/main.4adddb63.chunk.css.map",
+    "static/media/App.css": "/emotion-matcher-react/static/media/Poppins-SemiBold.e63b93df.ttf"
   }
 }
