@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d109680c51106680dd67c666d942838c",
+    "revision": "27af05f2d13682ca2c273273003eac68",
     "url": "/emotion-matcher-react/index.html"
   },
   {
-    "revision": "cd9d90f3b7377db44aab",
+    "revision": "a8366e1b96d3565d69f3",
     "url": "/emotion-matcher-react/static/css/main.4adddb63.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/emotion-matcher-react/static/js/2.c624823e.chunk.js"
   },
   {
-    "revision": "cd9d90f3b7377db44aab",
-    "url": "/emotion-matcher-react/static/js/main.a85e8be8.chunk.js"
+    "revision": "a8366e1b96d3565d69f3",
+    "url": "/emotion-matcher-react/static/js/main.88701467.chunk.js"
   },
   {
     "revision": "1dcafed79511120af67f",

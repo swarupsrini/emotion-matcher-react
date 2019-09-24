@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/emotion-matcher-react/precache-manifest.60c0d0c3da93bea1b512cfda30d21632.js"
+  "/emotion-matcher-react/precache-manifest.3d577f70f6aaaed9231bd8a09f230631.js"
 );
 
 self.addEventListener('message', (event) => {
