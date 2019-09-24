@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emotion-matcher-react/static/css/main.b100e6da.chunk.css",
+    "main.js": "/emotion-matcher-react/static/js/main.3f644b65.chunk.js",
+    "main.js.map": "/emotion-matcher-react/static/js/main.3f644b65.chunk.js.map",
+    "runtime-main.js": "/emotion-matcher-react/static/js/runtime-main.d375b250.js",
+    "runtime-main.js.map": "/emotion-matcher-react/static/js/runtime-main.d375b250.js.map",
+    "static/js/2.40fc6bc1.chunk.js": "/emotion-matcher-react/static/js/2.40fc6bc1.chunk.js",
+    "static/js/2.40fc6bc1.chunk.js.map": "/emotion-matcher-react/static/js/2.40fc6bc1.chunk.js.map",
+    "index.html": "/emotion-matcher-react/index.html",
+    "precache-manifest.47c41c8cdaee768dfb5da917bafadedd.js": "/emotion-matcher-react/precache-manifest.47c41c8cdaee768dfb5da917bafadedd.js",
+    "service-worker.js": "/emotion-matcher-react/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/emotion-matcher-react/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/emotion-matcher-react/static/media/logo.25bf045c.svg"
+  }
+}
